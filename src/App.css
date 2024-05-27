@@ -1,0 +1,17 @@
+.card-title {
+  text-transform: capitalize;
+}
+.container {
+  margin: 50px;
+  width: 100%;
+}
+.row {
+  padding: 2rem;
+}
+.custom-navbar {
+  background: linear-gradient(to right, #ffb700, #ff6200);
+}
+.card-text {
+  list-style-type: none;
+  text-transform: capitalize;
+}
